@@ -1,0 +1,14 @@
+nodeClicked,node1,node2,node3,filename
+0,0,0,0,config1.jpg
+1,1,0,0,config2.jpg
+2,0,1,0,config3.jpg
+3,0,0,1,config4.jpg
+1,1,1,0,config5.jpg
+2,1,1,0,config6.jpg
+1,1,0,1,config7.jpg
+3,1,0,1,config8.jpg
+2,0,1,1,config9.jpg
+3,0,1,1,config10.jpg
+1,1,1,1,config11.jpg
+2,1,1,1,config12.jpg
+3,1,1,1,config13.jpg
