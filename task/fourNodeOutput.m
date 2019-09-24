@@ -57,7 +57,7 @@ function [ node1, node2, node3, node4 ] = fourNodeOutput( nodeClicked, connectio
             node4 = connections(1, 4) * (rand(1) < wireStrength); %turn on node4 based on connection with node1
             if node3 == 1 && node4 == 0 %if node3 turned on but node4 didn't
                 node4 = connections(3, 4) * (rand(1) < wireStrength); %turn on node4 based on connection with node3
-            elseif node3 ==1 && node3 == 0 %if node4 turned on but node3 didn't
+            elseif node4 ==1 && node3 == 0 %if node4 turned on but node3 didn't
                 node3 = connections(4, 3) * (rand(1) < wireStrength); %turn on node3 based on connection with node4
             end
         elseif node1 == 0 && node3 == 1 && node4 == 0
