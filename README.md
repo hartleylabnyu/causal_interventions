@@ -1,6 +1,6 @@
 # Causal information-seeking strategies change across childhood and adolescence
 
-Task, analysis code and data for: Nussenbaum, K*, Cohen, A.O.*, Davis, Z.J., Halpern, D., Gureckis, T.M., & Hartley, C.A. (under revision). [Causal information-seeking strategies change across childhood and adolescence.](https://psyarxiv.com/qukac/)
+Task, analysis code, and data for: Nussenbaum, K*, Cohen, A.O.*, Davis, Z.J., Halpern, D., Gureckis, T.M., & Hartley, C.A. (under revision). [Causal information-seeking strategies change across childhood and adolescence.](https://psyarxiv.com/qukac/)
 
 ## Running the task:
 
