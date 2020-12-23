@@ -4,7 +4,7 @@ Task, analysis code, and data for: Nussenbaum, K*, Cohen, A.O.*, Davis, Z.J., Ha
 
 ## Running the task:
 
-The task described in the manuscript is an adapted version of the task used in [Coenen, Rehder, & Gureckis (2015.](https://www.sciencedirect.com/science/article/pii/S0010028515000171?via%3Dihub)
+The task described in the manuscript is an adapted version of the task used in [Coenen, Rehder, & Gureckis (2015).](https://www.sciencedirect.com/science/article/pii/S0010028515000171?via%3Dihub)
 
 This version can be run through Psychtoolbox-3 in Matlab 2016 or 2017. (It might be compatible with other Matlab versions, but they have not been explicitly tested.)
 
